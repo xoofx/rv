@@ -1,3 +1,5 @@
+# NOTE: This branch will be frequently rebased to the current master (development branch)
+
 # The Region Vectorizer (LLVM 6.0 version)
 
 Compiler Design Lab / Saarland University / Saarland Informatics Campus
